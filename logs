@@ -1,0 +1,38 @@
+#####################
+Loss function is updated once at the end
+#####################
+
+learning rate is set to 0.010000
+source_classification: 0.008794, source_dann: 0.000000, source_diff: 0.000000, source_mse: 0.004401, source_simse: 0.000073, target_dann: 0.000000, target_diff: 0.000000, target_mse: 0.001623, target_simse: 0.000085
+/usr/local/lib/python3.7/dist-packages/torch/utils/data/dataloader.py:490: UserWarning: This DataLoader will create 8 worker processes in total. Our suggested max number of worker in current system is 2, which is smaller than what this DataLoader is going to create. Please be aware that excessive worker creation might get DataLoader running slow or even freeze, lower the worker number to avoid potential slowness/freeze if necessary.
+  cpuset_checked))
+epoch: 0, accuracy of the mnist dataset: 0.985600
+epoch: 0, accuracy of the mnist_m dataset: 0.602378
+source_classification: 0.067429, source_dann: 0.000000, source_diff: 0.000000, source_mse: 0.003607, source_simse: 0.000010, target_dann: 0.000000, target_diff: 0.000000, target_mse: 0.001697, target_simse: 0.000017
+epoch: 1, accuracy of the mnist dataset: 0.989400
+epoch: 1, accuracy of the mnist_m dataset: 0.598045
+source_classification: 0.010700, source_dann: 0.000000, source_diff: 0.000000, source_mse: 0.003167, source_simse: 0.000011, target_dann: 0.000000, target_diff: 0.000000, target_mse: 0.001558, target_simse: 0.000000
+epoch: 2, accuracy of the mnist dataset: 0.985800
+epoch: 2, accuracy of the mnist_m dataset: 0.606044
+source_classification: 0.001223, source_dann: 0.000000, source_diff: 0.000000, source_mse: 0.003063, source_simse: 0.000006, target_dann: 0.000000, target_diff: 0.000000, target_mse: 0.001030, target_simse: 0.000014
+epoch: 3, accuracy of the mnist dataset: 0.988000
+epoch: 3, accuracy of the mnist_m dataset: 0.616598
+source_classification: 0.003220, source_dann: 0.000000, source_diff: 0.000000, source_mse: 0.002773, source_simse: 0.000005, target_dann: 0.000000, target_diff: 0.000000, target_mse: 0.001833, target_simse: 0.000008
+epoch: 4, accuracy of the mnist dataset: 0.990600
+epoch: 4, accuracy of the mnist_m dataset: 0.606599
+source_classification: 0.452302, source_dann: 0.071786, source_diff: 0.000000, source_mse: 0.004034, source_simse: 0.000958, target_dann: 0.187119, target_diff: 0.000000, target_mse: 0.002848, target_simse: 0.000643
+epoch: 5, accuracy of the mnist dataset: 0.966700
+epoch: 5, accuracy of the mnist_m dataset: 0.579602
+source_classification: 0.001554, source_dann: 0.164252, source_diff: 0.000000, source_mse: 0.003573, source_simse: 0.000926, target_dann: 0.162692, target_diff: 0.000000, target_mse: 0.002321, target_simse: 0.000705
+epoch: 6, accuracy of the mnist dataset: 0.988900
+epoch: 6, accuracy of the mnist_m dataset: 0.676814
+source_classification: 0.004814, source_dann: 0.180043, source_diff: 0.000000, source_mse: 0.003564, source_simse: 0.000804, target_dann: 0.192565, target_diff: 0.000000, target_mse: 0.002996, target_simse: 0.001117
+epoch: 7, accuracy of the mnist dataset: 0.990500
+epoch: 7, accuracy of the mnist_m dataset: 0.699256
+source_classification: 0.001535, source_dann: 0.169584, source_diff: 0.000000, source_mse: 0.003107, source_simse: 0.000504, target_dann: 0.169784, target_diff: 0.000000, target_mse: 0.002327, target_simse: 0.000177
+epoch: 8, accuracy of the mnist dataset: 0.989100
+epoch: 8, accuracy of the mnist_m dataset: 0.705255
+source_classification: 0.062900, source_dann: 0.154360, source_diff: 0.000000, source_mse: 0.003062, source_simse: 0.000353, target_dann: 0.162400, target_diff: 0.000000, target_mse: 0.003731, target_simse: 0.000973
+epoch: 9, accuracy of the mnist dataset: 0.986800
+epoch: 9, accuracy of the mnist_m dataset: 0.698922
+done
